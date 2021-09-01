@@ -18,14 +18,14 @@ export const projects = [
     description:
       "",
     image: "./tech-blog2.png",
-    link: "",
+    link: "https://emmas-tech-blog.herokuapp.com/",
   },
   {
     title: "Recipe Scraper",
     description:
       "",
     image: "./recipe-scraper.png",
-    link: "",
+    link: "https://recipe-scraper-peg.herokuapp.com/",
   },
 ];
 
